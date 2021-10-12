@@ -6,9 +6,13 @@ FileSystemManager (FMS) is a File Manager for C++. Its fast, Clean Coded and a S
 FileSystemManager
 
 FSM Works Perfectly for the VS Settings:
+
 C++ Language Standard: Default (ISO C++14 Standard)
+
 Platform Toolset: Visual Studio 2019 (v142)
+
 WinSDK Version: 10.0 (latest installed version)
+
 Charactar Set: Use Unicode Character Set
 
 -------------------------------------------------
